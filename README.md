@@ -1,6 +1,6 @@
 # publicMintTool
-这是一个抢公开发售的合约mint机器人，看的懂代码的可以直接网页合约操作这些代码，不会的小白可以用我制作编译的exe程序，直接填入参数就可以，下载地址：
-#### :arrow_double_down: [机器人下载](https://appshare.onelink.me/7uiT/1ed3d477)
+这是一个抢公开发售的合约mint机器人，看的懂代码的可以直接网页合约操作这些代码，不会的小白可以用我制作编译的exe程序，直接填入参数就可以
+#### :arrow_double_down: [机器人程序下载](https://appshare.onelink.me/7uiT/1ed3d477)
 
 This is a public mint tool 
 
