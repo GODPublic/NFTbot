@@ -1,4 +1,6 @@
 # publicMintTool
+这是一个抢公开发售的合约mint机器人，看的懂代码的可以直接网页合约操作这些代码，不会刻意用我制作编译的exe程序，直接填入参数就可以
+下载地址
 
 This is a public mint tool for https://etherscan.io/address/0x984f7b398d577c0adde08293a53ae9d3b6b7a5c5
 
